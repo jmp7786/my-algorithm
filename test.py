@@ -1,0 +1,5 @@
+import itertools
+input = ')(()())())'
+
+input = ')'
+
