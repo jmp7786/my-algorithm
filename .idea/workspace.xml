@@ -15,10 +15,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1fYEgAizvOtqrXIsxArwDyAD5eX" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/LRU" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/programmers" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -132,7 +135,7 @@
       <workItem from="1602926711754" duration="2000" />
       <workItem from="1603282698370" duration="254000" />
       <workItem from="1603711305311" duration="247000" />
-      <workItem from="1603714485056" duration="3735000" />
+      <workItem from="1603714485056" duration="5876000" />
     </task>
     <servers />
   </component>
