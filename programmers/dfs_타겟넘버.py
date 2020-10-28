@@ -21,3 +21,4 @@ a = [1, 1, 1, 1, 1]
 t = 3
 result = solution(a, t)
 print(result)
+
