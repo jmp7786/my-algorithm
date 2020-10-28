@@ -1,26 +1,28 @@
-def dfs(computers, i, visited):
-    stack = [i]
+def solution(begin, target, words):
+    visited = [0 for i in range(len(words))]
+    results = []
+    dfs(begin, 0, target, words, visited, results)
+    print(results)
+    return min(results)
 
-    while stack:
-        j = stack.pop()
-        visited[j] = 1
-        for y in range(len(computers)):
-            if computers[j][y] == 1 and visited[y] == 0:
-                stack.append(y)
+def dfs(word, depth, target, words, visited, results):
+    if word == target:
+        results.append(depth)
+        return
 
-def solution(n, computers):
-    answer = 0
-    visited = [0 for i in range(n)]
+    for i in range(len(words)):
+        count = 0
+        if visited[i] == 1:
+            continue
+        for j in range(len(word)): #단어 변경 확인
+            if word[j] != words[i][j]:
+                count += 1
+        if count == 1:
+            visited[i] = 1
+            dfs(words[i], depth+1, target, words, visited, results)
+            visited[i] = 0
 
-    for i in range(n):
-        if visited[i] == 0:
-            dfs(computers, i, visited)
-            answer += 1
-
-    return answer
-
-
-a = [[1, 1, 0], [1, 1, 1], [0, 1, 1]]
-result = solution(3, a)
-
+a = ['hot', 'dot', 'dog', 'lot', 'log', 'cog']
+result = solution('hit', 'cog', a)
 print(result)
+
