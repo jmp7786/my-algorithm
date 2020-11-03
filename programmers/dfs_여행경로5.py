@@ -19,6 +19,7 @@ def solution(tickets):
     global answer
     print(answer)
     return answer
+
 a = [['ICN', 'JFK'], ['HND', 'IAD'], ['JFK', 'HND']]
 
 solution()
