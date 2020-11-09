@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0fad5624-1514-4690-8259-bf03bdf2449a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/programmers/dfs_타겟넘버6.py" beforeDir="false" />
-    </list>
+    <list default="true" id="0fad5624-1514-4690-8259-bf03bdf2449a" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -197,7 +194,7 @@
       <workItem from="1604736948410" duration="318000" />
       <workItem from="1604737881556" duration="267000" />
       <workItem from="1604738319498" duration="43000" />
-      <workItem from="1604839061241" duration="2078000" />
+      <workItem from="1604839061241" duration="2140000" />
     </task>
     <servers />
   </component>
