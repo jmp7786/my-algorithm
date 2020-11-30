@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0fad5624-1514-4690-8259-bf03bdf2449a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/programmers/dfs_타겟넘버21.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programmers/dfs_타겟넘버22.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,11 +31,11 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/programmers" />
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/LRU" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/programmers" />
       <recent name="$PROJECT_DIR$/LRU" />
     </key>
   </component>
@@ -213,6 +213,7 @@
       <workItem from="1606135562527" duration="561000" />
       <workItem from="1606280494411" duration="32000" />
       <workItem from="1606396250028" duration="1199000" />
+      <workItem from="1606597243520" duration="629000" />
     </task>
     <servers />
   </component>
