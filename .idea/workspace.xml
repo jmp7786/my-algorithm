@@ -30,11 +30,11 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/programmers" />
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/LRU" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/programmers" />
       <recent name="$PROJECT_DIR$/LRU" />
     </key>
   </component>
@@ -216,6 +216,7 @@
       <workItem from="1606733561012" duration="29000" />
       <workItem from="1606972617764" duration="572000" />
       <workItem from="1607087101250" duration="1411000" />
+      <workItem from="1607438601886" duration="648000" />
     </task>
     <servers />
   </component>
